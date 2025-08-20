@@ -3,7 +3,7 @@
 Este repositório contém um **notebook em Python** para coletar dados do **Consumer Price Index (CPI)** diretamente da **API pública do Bureau of Labor Statistics (BLS)**.
 
 ## ▶️ Como usar no Google Colab
-1. Abra o notebook [`cpi_data.ipynb`](./cpi_data.ipynb).
+1. Abra o notebook [`cpi_data.ipynb`](Inflacao_eua_CPI.ipynb).
 2. Clique em **"Open in Colab"** (ou abra no seu próprio Google Colab).
 3. Execute as células para coletar e analisar os dados.
 
